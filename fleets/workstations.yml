@@ -197,6 +197,6 @@ software:
 settings:
   webhook_settings:
     failing_policies_webhook:
-      enable_failing_policies_webhook: true
+      enable_failing_policies_webhook: false
       destination_url: https://fleetdm.com
       host_batch_size: 0
